@@ -33,7 +33,7 @@ function Hero() {
 
   return (
     <section
-      className="w-full h-screen bg-cover bg-center flex flex-col justify-center items-center text-white px-4"
+      className="w-full min-h-screen bg-cover bg-center flex flex-col justify-center items-center text-white py-8 px-4"
       style={{ backgroundImage: "url('/assets/astrology love.png')" }}
     >
       {/* Hero Content */}
