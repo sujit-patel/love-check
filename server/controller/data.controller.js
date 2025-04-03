@@ -7,7 +7,7 @@ export const checkLove = (req, res) => {
     return res.status(400).json({ message: "Names are required" });
   }
 
-  const compatibilityPercentage = Math.floor(Math.random() * (98 - 63 + 1)) + 63;
+  const compatibilityPercentage = Math.floor(Math.random() * (98 - 50 + 1)) + 50;
 
   const compatibilityData = new Compatibility({
     userName,
