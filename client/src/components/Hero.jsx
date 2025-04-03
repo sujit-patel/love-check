@@ -17,7 +17,6 @@ function Hero() {
             partnerName,
           }
         );
-        console.log(response.data);
 
         setResult(
           `Compatibility for ${userName} and ${partnerName}: ${response.data.compatibility}%`
