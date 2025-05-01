@@ -1,6 +1,6 @@
 # 💘 Love Check – Name Compatibility Calculator
 
-A fun, light-hearted React app that checks **compatibility between two names**! Just enter your name and your crush’s name — and let the algorithm (and a little bit of magic ✨) do the rest.
+A fun, light-hearted React app that checks **compatibility between two names**! Just enter your name and your crush’s name and let the algorithm (and a little bit of magic ✨) do the rest.
 
 Live Demo 👉 [love-check.vercel.app](https://love-check-rho.vercel.app/)
 
